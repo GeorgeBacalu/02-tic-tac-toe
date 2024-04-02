@@ -107,7 +107,8 @@ h1 {
   border: none;
   padding: 0.5rem;
   animation: pulse-text 2s infinite;
-  background-color: center;
+  background-color: #46432f;
+  text-align: center;
   text-transform: uppercase;
 }
 
